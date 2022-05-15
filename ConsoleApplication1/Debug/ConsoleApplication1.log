@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Lenovo\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(35,6): warning C4101: “count”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(34,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(81,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(115,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\Lenovo\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(172,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+C:\Users\Lenovo\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(117,16): warning C4101: “buf_2”: 未引用的局部变量
+  ConsoleApplication1.vcxproj -> C:\Users\Lenovo\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
